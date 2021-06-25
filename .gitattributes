@@ -2,3 +2,4 @@
 *.png filter=lfs diff=lfs merge=lfs -text
 the-corona-fighters-game/images/** filter=lfs diff=lfs merge=lfs -text
 the-corona-fighters-game/media/** filter=lfs diff=lfs merge=lfs -text
+the-corona-fighters-game/** filter=lfs diff=lfs merge=lfs -text

@@ -1,10 +1,3 @@
-{
-	"name": "The Corona Fighters",
-	"short_name": "The Corona Fighters",
-	"description": "COVID Running Game",
-	"start_url": "index.html",
-	"display": "fullscreen",
-	"orientation": "landscape",
-	"background_color": "#ffffff",
-	"icons": []
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:50efac9b31e828ecb54a3338053b25c7a8078aab117138ec08b697291a01fa94
+size 239
