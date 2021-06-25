@@ -1,0 +1,10 @@
+{
+	"name": "The Corona Fighters",
+	"short_name": "The Corona Fighters",
+	"description": "COVID Running Game",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": []
+}
